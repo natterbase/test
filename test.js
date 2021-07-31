@@ -10,3 +10,7 @@
                         // speed = totalComplexitiesSubmitted/totalHoursWorked
                         // calculate speed for the project for this date
                         // speed = totalComplexitiesSubmitted/totalHoursWorked
+// calculate speed for the project for this date
+                        // speed = totalComplexitiesSubmitted/totalHoursWorke
+                        // calculate speed for the project for this date
+                        // speed = totalComplexitiesSubmitted/totalHoursWorked
