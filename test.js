@@ -6,3 +6,7 @@
 // another back rub, eh??
 // miles counter
 // abrupt stand up
+// calculate speed for the project for this date
+                        // speed = totalComplexitiesSubmitted/totalHoursWorked
+                        // calculate speed for the project for this date
+                        // speed = totalComplexitiesSubmitted/totalHoursWorked
