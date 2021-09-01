@@ -50,6 +50,8 @@ app.use((req, res) => {
     res.type('txt').send('Not found');
 });
 
+//Hayh to test you!
+
 app.get('/error', (req, res) => {
     console.log(req.query.error);
     res.render('404', {
