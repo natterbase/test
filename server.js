@@ -6,10 +6,9 @@ let http = require('http'),
 
 
 
-// Prince is commennting
-//  Testing  with Greenhouse 11:54 AM
 
-//A quick test with  Kayode.... VP!
+
+// Testing pair code review with Ole on the background
 
 
 const app = express(),
