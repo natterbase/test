@@ -4,7 +4,6 @@ let http = require('http'),
     compression = require('compression'),
     cookieParser = require('cookie-parser');
 
-
 const app = express(),
     cors = require('cors');
     
